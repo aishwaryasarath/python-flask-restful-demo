@@ -17,6 +17,7 @@ FLASK_APP=flask-restful.py flask run
 curl http://127.0.0.1:5000/ 
 ```
 Returns the json Hello World
+
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/49971693/158837622-ba639a9f-60d6-491c-bcbb-d8141f1d34b8.png">
 
 
@@ -24,7 +25,8 @@ Returns the json Hello World
 ```
 curl http://127.0.0.1:5000/multi/10
 ```
-Returns <img width="157" alt="image" src="https://user-images.githubusercontent.com/49971693/158837569-6d0bd3cb-6ead-4c90-9d7e-d3ad89a94e09.png">
+Returns 
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/49971693/158837569-6d0bd3cb-6ead-4c90-9d7e-d3ad89a94e09.png">
 
 ## Test the POST endpoint with data
 ```
